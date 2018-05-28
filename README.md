@@ -10,3 +10,13 @@ Hierarchical Semantic Segmentation is based on ResNet50. Its main novelty compar
 ----|----|----
 ![Predictions 1.1](sample_results/1/predictions_1.png "Predictions 1.1") | ![Predictions 1.2](sample_results/1/predictions_2.png "Predictions 1.2") | ![Predictions 1.3](sample_results/1/predictions_3.png "Predictions 1.3")
 ![Ground truth 1.1](sample_results/1/ground_truth_1.png "Ground truth 1.1") | ![Ground truth 1.2](sample_results/1/ground_truth_2.png "Ground truth 1.2") | ![Ground truth 1.3](sample_results/1/ground_truth_3.png "Ground truth 1.3")
+
+![Image 2.1](sample_results/2/image_1.jpg "Image 2.1") | ![Image 2.2](sample_results/2/image_2.jpg "Image 2.2") | ![Image 2.3](sample_results/2/image_3.jpg "Image 2.3")
+----|----|----
+![Predictions 2.1](sample_results/2/predictions_1.png "Predictions 2.1") | ![Predictions 2.2](sample_results/2/predictions_2.png "Predictions 2.2") | ![Predictions 2.3](sample_results/2/predictions_3.png "Predictions 2.3")
+![Ground truth 2.1](sample_results/2/ground_truth_1.png "Ground truth 2.1") | ![Ground truth 2.2](sample_results/2/ground_truth_2.png "Ground truth 2.2") | ![Ground truth 2.3](sample_results/2/ground_truth_3.png "Ground truth 2.3")
+
+![Image 3.1](sample_results/3/image_1.png "Image 3.1") | ![Image 3.2](sample_results/3/image_2.png "Image 3.2") | ![Image 3.3](sample_results/3/image_3.png "Image 3.3")
+----|----|----
+![Predictions 3.1](sample_results/3/predictions_1.png "Predictions 3.1") | ![Predictions 3.2](sample_results/3/predictions_2.png "Predictions 3.2") | ![Predictions 3.3](sample_results/3/predictions_3.png "Predictions 3.3")
+![Ground truth 3.1](sample_results/3/ground_truth_1.png "Ground truth 3.1") | ![Ground truth 3.2](sample_results/3/ground_truth_2.png "Ground truth 3.2") | ![Ground truth 3.3](sample_results/3/ground_truth_3.png "Ground truth 3.3")
