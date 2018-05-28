@@ -5,3 +5,8 @@ __Meletis P, Dubbelman G (2018)__ _Training of convolutional networks on multipl
 # Introduction ###
 
 Hierarchical Semantic Segmentation is based on ResNet50. Its main novelty compared to other semantic segmentation systems, is that a single model can handle a variety of different datasets, with disjunct sets of semantic classes. Our system also runs in real time (15fps and rising).
+
+![alt-text-1](sample_results/test.jpg "title-1") | ![alt-text-1](sample_results/test.jpg "title-1") | ![alt-text-1](sample_results/test.jpg "title-1")
+-|-|-
+![alt-text-1](sample_results/test.jpg "title-1") | ![alt-text-1](sample_results/test.jpg "title-1") | ![alt-text-1](sample_results/test.jpg "title-1")
+![alt-text-1](sample_results/test.jpg "title-1") | ![alt-text-1](sample_results/test.jpg "title-1") | ![alt-text-1](sample_results/test.jpg "title-1")
