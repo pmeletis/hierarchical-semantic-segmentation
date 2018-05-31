@@ -28,5 +28,3 @@ __Figure 2.__ Mapillary Vistas validation split image examples - __top: input im
 
 __Figure 3.__ TSDB test split image examples - __top: input images, center: predictions, bottom: ground truth__. The network predictions include decisions  from  L1-L3  levels  of  the  hierarchy.  Note  that  the  ground  truth includes only traffic sign bounding boxes, since rest pixels are unlabeled.
 
-_Documentation and testing: Joris IJsselmuiden, [Track32](http://track32.nl)_
-
