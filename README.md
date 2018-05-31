@@ -18,13 +18,13 @@ __Figure 1.__ ADD CAPTION (top: input images, center: predictions, bottom: groun
 ![Predictions 2.1](sample_results/2/predictions_1.png "Predictions 2.1") | ![Predictions 2.2](sample_results/2/predictions_2.png "Predictions 2.2") | ![Predictions 2.3](sample_results/2/predictions_3.png "Predictions 2.3")
 ![Ground truth 2.1](sample_results/2/ground_truth_1.png "Ground truth 2.1") | ![Ground truth 2.2](sample_results/2/ground_truth_2.png "Ground truth 2.2") | ![Ground truth 2.3](sample_results/2/ground_truth_3.png "Ground truth 2.3")
 
-__Figure 2.__ ADD CAPTION (top: input images, center: predictions, bottom: ground truth).
+__Figure 2.__ Mapillary Vistas validation split image examples - __top: input images, center: predictions, bottom: ground truth__. The network predictions include decisions from L1-L3 levels of the hierarchy. Note that the ground truth does not include traffic sign subclasses.
 
 ![Image 3.1](sample_results/3/image_1.png "Image 3.1") | ![Image 3.2](sample_results/3/image_2.png "Image 3.2") | ![Image 3.3](sample_results/3/image_3.png "Image 3.3")
 ----|----|----
 ![Predictions 3.1](sample_results/3/predictions_1.png "Predictions 3.1") | ![Predictions 3.2](sample_results/3/predictions_2.png "Predictions 3.2") | ![Predictions 3.3](sample_results/3/predictions_3.png "Predictions 3.3")
 ![Ground truth 3.1](sample_results/3/ground_truth_1.png "Ground truth 3.1") | ![Ground truth 3.2](sample_results/3/ground_truth_2.png "Ground truth 3.2") | ![Ground truth 3.3](sample_results/3/ground_truth_3.png "Ground truth 3.3")
 
-__Figure 3.__ ADD CAPTION (top: input images, center: predictions, bottom: ground truth).
+__Figure 3.__ TSDB test split image examples - __top: input images, center: predictions, bottom: ground truth__. The network predictions include decisions  from  L1-L3  levels  of  the  hierarchy.  Note  that  the  ground  truth includes only traffic sign bounding boxes, since rest pixels are unlabeled.
 
 _Documentation and testing: Joris IJsselmuiden, [Track32](http://track32.nl)_
