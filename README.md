@@ -11,7 +11,8 @@ Hierarchical Semantic Segmentation is based on ResNet50. Its main novelty compar
 ![Predictions 1.1](sample_results/1/predictions_1.png "Predictions 1.1") | ![Predictions 1.2](sample_results/1/predictions_2.png "Predictions 1.2") | ![Predictions 1.3](sample_results/1/predictions_3.png "Predictions 1.3")
 ![Ground truth 1.1](sample_results/1/ground_truth_1.png "Ground truth 1.1") | ![Ground truth 1.2](sample_results/1/ground_truth_2.png "Ground truth 1.2") | ![Ground truth 1.3](sample_results/1/ground_truth_3.png "Ground truth 1.3")
 
-__Figure 1.__ ADD CAPTION (top: input images, center: predictions, bottom: ground truth).
+__Figure 1.__ Cityscapes validation split image examples - __top: input images, center: predictions, bottom: ground truth__. The network predictions include decisions from L1-L3 levels of the hierarchy. Note that the ground truth includes only one traffic sign superclass (yellow) and no road attribute
+markings.
 
 ![Image 2.1](sample_results/2/image_1.jpg "Image 2.1") | ![Image 2.2](sample_results/2/image_2.jpg "Image 2.2") | ![Image 2.3](sample_results/2/image_3.jpg "Image 2.3")
 ----|----|----
@@ -28,3 +29,4 @@ __Figure 2.__ Mapillary Vistas validation split image examples - __top: input im
 __Figure 3.__ TSDB test split image examples - __top: input images, center: predictions, bottom: ground truth__. The network predictions include decisions  from  L1-L3  levels  of  the  hierarchy.  Note  that  the  ground  truth includes only traffic sign bounding boxes, since rest pixels are unlabeled.
 
 _Documentation and testing: Joris IJsselmuiden, [Track32](http://track32.nl)_
+
