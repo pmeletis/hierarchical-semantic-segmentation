@@ -1,6 +1,4 @@
-## IV 2019 (Oral)
-
-### On Boosting Semantic Street Scene Segmentation with Weak Supervision
+## On Boosting Semantic Street Scene Segmentation with Weak Supervision - IV 2019 (Oral)
 
 ```
 @article{meletis2019boosting,
@@ -14,9 +12,7 @@ You can find this project here:
 
 https://github.com/tuemps/IV2019-boosting-semantic-segmentation-with-weak-labels
 
-## IV 2018
-
-### Training of convolutional networks on multiple heterogeneous datasets for street scene semantic segmentation
+## Training of convolutional networks on multiple heterogeneous datasets for street scene semantic segmentation - IV 2018
 
 ```
 @inproceedings{meletis2018training,
